@@ -110,6 +110,5 @@ function findCaliforniaCafes(searchTerm) {
   });
   return results;
 }
-
 let cafesLocation = findCaliforniaCafes("Avenue");
 console.log(cafesLocation);
